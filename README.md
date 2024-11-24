@@ -1,1 +1,1 @@
-# odin-recipies
+Probably a terrible recipe website
